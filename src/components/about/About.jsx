@@ -6,10 +6,12 @@ import {FiUsers} from 'react-icons/fi'
 import ME from '../../assets/me.png'
  const About = () => {
   return (
-    <secction id='about'>
-       <h5>Todo lo que tenes que saber</h5>
+    <section id='about'>
+     
+       <h5>Lo que tenes que saber</h5>
       <h2>Sobre mi</h2>
-. <div className="container about__container">
+      
+ <div className="container about__container">
   <div className="about__me">
     <div className="about__me-image">
       <img src={ME} alt="About " />
@@ -38,7 +40,7 @@ import ME from '../../assets/me.png'
   <a href="#contact" className='btn btn-primary'>Hablemos</a>
   </div>
 </div>
-    </secction>
+    </section>
   )
 }
 
