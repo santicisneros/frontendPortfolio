@@ -34,10 +34,10 @@ header{
     background: var(--color-primary);
 }
 
-.header__container .me{
+/* .header__container .me{
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
-    height: 30rem;
+    height: 30rem; 
     position: absolute;
     left:calc(50% - 11rem) ;
     margin-top: 4rem;
@@ -45,7 +45,7 @@ header{
     overflow:hidden ;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 
-}
+} */
 
 .scroll_down {
     position: absolute;
