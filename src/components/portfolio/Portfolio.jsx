@@ -17,7 +17,7 @@ function Portfolio() {
   <h3>This is a portfolio item title</h3>
   <div className='portfolio__item-cta'>
   <a href="https://github.com/santicisneros" className='btn' target='_blank' rel='noreferrer'>Github</a>
-  <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Live Demo</a>
+  <a href="https://github.com" className='btn btn-primary' target='_blank' rel='noreferrer'>Visit Proyect</a>
 </div>
   </article>
   <article className='portfolio__item'>

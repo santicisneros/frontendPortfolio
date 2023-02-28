@@ -38,9 +38,10 @@
     font-size: 0.8rem;
 }
 
+
 form{
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     gap:1.2rem;
 }
 
@@ -51,8 +52,11 @@ input, textarea{
     background: transparent;
     border: 2px solid var(--color-primary-variant);
     resize: none;
-    color:var(--color-white)
+    color:var(--color-white);
+   
 }
+
+
 
 
 @media screen and (max-width: 1024px){
